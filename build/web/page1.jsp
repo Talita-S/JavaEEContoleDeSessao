@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Página 1 - Vinícius App</title>
+        <title>Página 1 - Talita App</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/header.jspf" %>

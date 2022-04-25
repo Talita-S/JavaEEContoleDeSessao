@@ -9,12 +9,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sobre o site - Vinícius App</title>
+        <title>Sobre o site - Talita App</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/header.jspf" %>
-        <h1>Vinícius Lemos de Oliveira</h1>
-        <h2>RA: 1290482023030</h2>
-        <h3><a href="https://www.github.com/VinoLemos" target="_blank">Perfil no GitHub</a></h3>
+        <h1>Talita da Silva Santos</h1>
+        <h2>RA: 1290482023027</h2>
+        <h4><a href="https://www.github.com/Talita-S" target="_blank">Perfil no GitHub</a></h4>
     </body>
 </html>

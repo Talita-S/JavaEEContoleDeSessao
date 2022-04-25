@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Índice - Vinícius App</title>
+        <title>Índice - Talita App</title>
     </head>
     <body>
         <%@include file="WEB-INF/jspf/header.jspf" %>

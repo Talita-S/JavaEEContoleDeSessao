@@ -16,12 +16,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Vinícius App</title>
+        <title>Talita Da Silva Santos</title>
     </head>
     <body>
 
 
-        <h1>Vinícius App</h1>
+        <h1>Talita App</h1>
         <%if (session.getAttribute("username") == null) {%>
         <div>Identifique-se para ter acesso ao site</div>
         <form>
